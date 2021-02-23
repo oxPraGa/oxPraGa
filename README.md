@@ -1,5 +1,17 @@
-### Hi there 👋
+# [Aliouche Houssem Eddine (PraGa)](https://oxpraga.github.io/)
 
+I'm a web developer. I have always loved creating and building something new. Now I work with web development both front-end and back-end, specifically with JavaScript and PHP. I also worked with image processing and Artificial intelligence.
+
+- 🔭 I’m currently working on tickets system app
+- 🌱 I’m currently learning NestJs 
+- 👯 I’m looking to collaborate on a Backend post
+- 💬 Ask me about anything
+- 📫 How to reach me: aliouche.houssem2@gmail.com
+- <!--
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
 <!--
 **oxPraGa/oxPraGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
