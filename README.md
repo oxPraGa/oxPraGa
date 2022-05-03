@@ -9,6 +9,11 @@ I'm a web developer. I have always loved creating and building something new. No
 - 📫 How to reach me: aliouche.houssem2@gmail.com
 - ⚡ Fun fact: Roses are red, violets are blue, Ryuu ga waga teki wo kurau....
 
+<br>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=oxpraga&show_icons=true&icon_color=ffc107&text_color=ffffff&title_color=ffc107&bg_color=1c1c1c&border_color=543f00" />
+
 <!--
 **oxPraGa/oxPraGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
