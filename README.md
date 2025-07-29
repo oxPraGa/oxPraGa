@@ -2,7 +2,7 @@
 
 I'm a web developer. I have always loved creating and building something new. Now I work with web development both front-end and back-end, specifically with JavaScript and PHP. I also worked with image processing and Artificial intelligence.
 
-- 🌱 I’m currently working with NestJs , Express.js , Fastify , Laravel 
+- 🌱 I’m currently working with Rust, NestJs, Express.js, Fastify, Laravel. 
 - 👯 /* I’m looking to collaborate on a Backend post*/
 - 💬 Ask me about anything
 - 📫 How to reach me: aliouche.houssem2@gmail.com
